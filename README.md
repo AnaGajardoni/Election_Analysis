@@ -2,7 +2,7 @@
 Election Analysis with Python
 
 ## Overview
-Tom is a Colorado Board of Elections employee who needs help with an election audit for a US Congressional Preccint. The data comes in tabulated results and the needs to be counted in order to report total number of votes as well as the amount of votes each candidate got. With such numbers in hand, percentages are calculated and the winner is certified. Such task is usually done in Excel, but the idea is to automate the process using Python. 
+Tom is a Colorado Board of Elections employee who needs help with an election audit for a US Congressional Preccint. The data comes in tabulated results and needs to be counted in order to report total number of votes as well as the amount of votes each candidate got. With such numbers in hand, percentages are calculated and the winner is certified. Such task is usually done in Excel, but the idea is to automate the process using Python. 
 
 ## Election Audit Analysis
 After our Python script ran and analysed the ballots cast, we came to the final results:
