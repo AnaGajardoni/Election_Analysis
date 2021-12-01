@@ -30,4 +30,3 @@ A similar process can be used to count votes for any election as long as the dat
 
 It is very important to state that this algorithm can be applied with minor changes in different scenarios as long as the winner is based on popular vote. If, for instance, an election calls for electoral vote, a more serious code review might take place to reflect the results properly.
 
-![AllStocks2017](/resources/AllStocks2017.png)
