@@ -20,6 +20,9 @@ After our Python script ran and analysed the ballots cast, we came to the final 
 
 * **Diana DeGette** was the winner candidate. She got **272,892 votes** out of 369,711 - totalling **73.8%** of the total votes - an impressive almost three-quarters of the cast votes!
 
+The computed results were shown on the screen right after the script ran:
+![terminal_results](/resources/terminal_results.png)
+
 ## Election Audit Summary
 The audit was a success! Within a few seconds, all votes were counted and the winner was announced - with very little human intervention - given all we had to do was to run the script.
 
