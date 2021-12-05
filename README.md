@@ -26,7 +26,7 @@ The computed results were shown on the screen right after the script ran:
 
 And a text file with similar information was generated so as to be kept along the necessary documents to certify the winner: 
 
-![election_results](/analysis/election_results.txt)
+[**election_results**](/analysis/election_results.txt)
 
 
 ## Election Audit Summary
